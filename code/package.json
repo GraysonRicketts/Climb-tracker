@@ -3,9 +3,9 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
-    "start": "expo start src",
-    "android": "expo start src --android",
-    "ios": "expo start src --ios",
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
     "eject": "expo eject"
   },
   "dependencies": {
